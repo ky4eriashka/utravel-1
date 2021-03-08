@@ -1,0 +1,30 @@
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Lobster&display=swap" rel="stylesheet">
+<style>
+.yelow-text {
+    color: #f1c324;
+}
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #f1c324;    
+    font-family: Dosis, "sans-serif";
+}
+p {
+   font-size: 19px;
+   font-weight: 500;
+   color: #6e6e6e; 
+   font-family: Dosis, "sans-serif";
+}
+.content {
+    background-color: black;
+    }
+.box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+}
+.gray-box {
+    background-color: rgba(255, 255, 255, 0.1); 
+}
+.
