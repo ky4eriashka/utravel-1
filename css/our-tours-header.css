@@ -38,4 +38,11 @@ header .menu a{
     font-weight: 700;
     font-family: Roboto, sans-serif;  
 }
-
+header .menu a li{
+    text-decoration: none;
+    color: #f1c324; 
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Roboto, sans-serif;  
+}
+ 
