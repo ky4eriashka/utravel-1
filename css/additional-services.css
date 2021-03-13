@@ -103,6 +103,7 @@ body .white-part {
     width: 100%;
 }
 #additional {
+    padding: 140px;
     font-size: 48px;
     font-weight: 700;
     line-height: 57px;
