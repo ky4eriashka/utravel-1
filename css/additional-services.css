@@ -112,7 +112,8 @@ body .white-part {
 #name {
     font-size: 25px;
     font-weight: 700;
-    color: #141414;    
+    color: #141414;
+    text-align: center;
     font-family: Dosis, "sans-serif"; 
 }
 #card {
