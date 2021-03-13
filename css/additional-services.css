@@ -10,7 +10,7 @@ body .content {
     justify-content: center;
     flex-direction: column;
 }
-@media (min-width: 640px) {
+@media (min-width: 801px) {
     
     .content {
         display: grid;
